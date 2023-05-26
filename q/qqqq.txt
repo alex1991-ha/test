@@ -1,3 +1,7 @@
 
 ветка main
 изменение на github
+from git to github
+
+git remote add origin https://github.com/alex1991-ha/test.git
+git push -u origin master
